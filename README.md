@@ -241,6 +241,8 @@ me about **Html , css , Mern , nodejs** - 📫 How to reach me
 <p>
   <img
     align="left"
+    width="100%"
+    style="margin-bottom: 10px"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=codexsourav&show_icons=true&locale=en&layout=compact"
     alt="codexsourav"
   />
@@ -248,6 +250,8 @@ me about **Html , css , Mern , nodejs** - 📫 How to reach me
 
 <p>
   &nbsp;<img
+    width="100%"
+    style="margin-bottom: 10px"
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=codexsourav&show_icons=true&locale=en"
     alt="codexsourav"
@@ -256,6 +260,8 @@ me about **Html , css , Mern , nodejs** - 📫 How to reach me
 
 <p>
   <img
+    width="100%"
+    style="margin-bottom: 10px"
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=codexsourav&"
     alt="codexsourav"
