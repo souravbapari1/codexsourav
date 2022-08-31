@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sourav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align-"rignt" alt='codeing' width="400" src="https://ouch-cdn2.icons8.com/jhBykFnkCXadsN5wRwsCsW6mims5msc83OJTBIXFVT8/rs:fit:256:256/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNjU2/LzA1ZWEyM2Y5LTNi/MDEtNDZkZi1iMmMz/LTJmMDQ2YjUyMmEy/YS5zdmc.png">
+<img align-"right" alt='codeing' width="400" src="https://ouch-cdn2.icons8.com/jhBykFnkCXadsN5wRwsCsW6mims5msc83OJTBIXFVT8/rs:fit:256:256/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNjU2/LzA1ZWEyM2Y5LTNi/MDEtNDZkZi1iMmMz/LTJmMDQ2YjUyMmEy/YS5zdmc.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codexsourav&label=Profile%20views&color=0e75b6&style=flat" alt="codexsourav" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sourav57394940" target="blank"><img src="https://img.shields.io/twitter/follow/sourav57394940?logo=twitter&style=for-the-badge" alt="sourav57394940" /></a> </p>
