@@ -260,12 +260,3 @@ me about **Html , css , Mern , nodejs** - 📫 How to reach me
   />
 </p>
 
-<p>
-  <img
-    width="100%"
-    style="margin-bottom: 10px; opacity: 0.8"
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=codexsourav&"
-    alt="codexsourav"
-  />
-</p>
