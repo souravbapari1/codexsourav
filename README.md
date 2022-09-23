@@ -26,7 +26,7 @@
 - 📝 I regularly write articles on
 [https://codexsourav.blogspot.com/](https://codexsourav.blogspot.com/) - 💬 Ask
 me about **Html , css , Mern , nodejs** - 📫 How to reach me
-**codexsourav404@gmail.com**
+**sourav0w@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
