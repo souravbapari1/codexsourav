@@ -24,7 +24,7 @@
 </p>
 
 - 📝 I regularly write articles on
-[https://codexsourav.blogspot.com/](https://codexsourav.blogspot.com/) - 💬 Ask
+[https://codexsourav.vercel.app](https://codexsourav.blogspot.com/) - 💬 Ask
 me about **Html , css , Mern , nodejs** - 📫 How to reach me
 **sourav0w@gmail.com**
 
