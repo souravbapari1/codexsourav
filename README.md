@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codexsourav" alt="codexsourav" /></a> </p>
 
-- 🔭 I’m currently working on [Thapa-Technical-CodeFest-2](https://github.com/codexsourav/Thapa-Technical-CodeFest-2)
-
 - 👨‍💻 All of my projects are available at [https://github.com/codexsourav](https://github.com/codexsourav)
 
 - 💬 Ask me about **reacj js,Flutter,node js,html,css,js,php,next js**
