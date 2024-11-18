@@ -76,9 +76,9 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=codexsourav&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="227" alt="streak graph" /> <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=codexsourav&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="240" alt="stats graph" /> <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codexsourav&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="300" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=souravbapari1&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="227" alt="streak graph" /> <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=souravbapari1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="240" alt="stats graph" /> <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=souravbapari1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="300" alt="languages graph"  />
   <br><br>
 </div>
 
@@ -90,13 +90,13 @@
   <a href="https://www.facebook.com/fbinsourav" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="80" height="30" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/codexsourav/" target="_blank">
+  <a href="https://www.instagram.com/souravbapari1/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="30" alt="instagram logo"  />
   </a>
   <a href="https://mobile.twitter.com/Sourav57394940" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="80" height="30" alt="twitter logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/codexsourav/" target="_blank">
+  <a href="https://www.linkedin.com/in/souravbapari1/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UCENvANETSckCOAonuFMGYiw/" target="_blank">
@@ -108,7 +108,7 @@
 ---
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/codexsourav) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/souravbapari1) 
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
